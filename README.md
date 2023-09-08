@@ -1,6 +1,7 @@
 # Ipod_Project
 React js Project To make a Ipod UI Designed Website
 iPod Mini Project ReadMe
+Site_Live==>https://ipod25.netlify.app/
 Project Description
 Welcome to the iPod Mini Project! This project is a fun and interactive way to experience the nostalgia of the classic iPod Mini while adding modern features. With this project, you can listen to some predefined music, change themes, explore your favorite artists, and manage your music collection. This ReadMe will guide you through the project, explaining its features and how to use them.
 
@@ -34,6 +35,7 @@ Run the Application: Start the application using the provided instructions. This
 Navigate the iPod Mini: Use the user interface to explore the various features of the iPod Mini project. Navigate through the music library, change themes, and discover artists.
 
 Enjoy the Music: Start playing your favorite songs and enjoy the music experience reminiscent of the classic iPod Mini.
+<img src=""/>
 
 Contributing
 We welcome contributions from the community to make this project even better. If you have ideas for new features, bug fixes, or improvements, please submit a pull request following the project's contribution guidelines.
