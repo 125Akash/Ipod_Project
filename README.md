@@ -36,12 +36,10 @@ Navigate the iPod Mini: Use the user interface to explore the various features o
 
 Enjoy the Music: Start playing your favorite songs and enjoy the music experience reminiscent of the classic iPod Mini.
 <br/>
-
+[![Whats-App-Image-2023-09-08-at-11-29-00-AM.jpg](https://i.postimg.cc/0274kF5z/Whats-App-Image-2023-09-08-at-11-29-00-AM.jpg)](https://postimg.cc/xcT5gszQ)
 <br/>
-[url=https://postimg.cc/bdRLxXdL][img]https://i.postimg.cc/bdRLxXdL/Whats-App-Image-2023-09-08-at-11-28-59-AM.jpg[/img][/url] [url=https://postimg.cc/xcT5gszQ][img]https://i.postimg.cc/xcT5gszQ/Whats-App-Image-2023-09-08-at-11-29-00-AM.jpg[/img][/url] [url=https://postimg.cc/D8jgNqrX][img]https://i.postimg.cc/D8jgNqrX/Whats-App-Image-2023-09-08-at-11-29-00-AM-1.jpg[/img][/url]
+[![Whats-App-Image-2023-09-08-at-11-28-59-AM.jpg](https://i.postimg.cc/h4kwqcnF/Whats-App-Image-2023-09-08-at-11-28-59-AM.jpg)](https://postimg.cc/bdRLxXdL)
 
-
-<br/>
 
 Contributing
 We welcome contributions from the community to make this project even better. If you have ideas for new features, bug fixes, or improvements, please submit a pull request following the project's contribution guidelines.
