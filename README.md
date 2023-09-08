@@ -35,8 +35,12 @@ Run the Application: Start the application using the provided instructions. This
 Navigate the iPod Mini: Use the user interface to explore the various features of the iPod Mini project. Navigate through the music library, change themes, and discover artists.
 
 Enjoy the Music: Start playing your favorite songs and enjoy the music experience reminiscent of the classic iPod Mini.
-<img src=""/>
-
+<br/>
+<img src="https://github.com/125Akash/Ipod_Project/blob/main/Screenshot_2023-09-08_11_13_18.png"/>
+<br/>
+<img src="ttps://github.com/125Akash/Ipod_Project/blob/main/Screenshot_2023-09-08_11_13_30.png"/>
+<br/>
+<img src="https://github.com/125Akash/Ipod_Project/blob/main/Screenshot_2023-09-08_11_13_43.png"/>
 Contributing
 We welcome contributions from the community to make this project even better. If you have ideas for new features, bug fixes, or improvements, please submit a pull request following the project's contribution guidelines.
 
