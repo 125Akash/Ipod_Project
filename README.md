@@ -36,7 +36,7 @@ Navigate the iPod Mini: Use the user interface to explore the various features o
 
 Enjoy the Music: Start playing your favorite songs and enjoy the music experience reminiscent of the classic iPod Mini.
 <br/>
-<img src="https://github.com/125Akash/Ipod_Project/blob/main/Screenshot_2023-09-08_11_13_18.png"/>
+[![Screenshot-2023-09-08-11-13-18.png](https://i.postimg.cc/KjM8kJK9/Screenshot-2023-09-08-11-13-18.png)](https://postimg.cc/ZvJSXPx3)
 <br/>
 <img src="ttps://github.com/125Akash/Ipod_Project/blob/main/Screenshot_2023-09-08_11_13_30.png"/>
 <br/>
